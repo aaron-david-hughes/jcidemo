@@ -11,7 +11,7 @@ class CalculatorTest {
 		Calculator c = new Calculator();
 		assertEquals(11, c.add(10,1));
 	}
-	
+
 	@Test
 	void testSub() {
 		Calculator c = new Calculator();
